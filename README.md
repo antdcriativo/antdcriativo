@@ -1,14 +1,7 @@
 <h1> Hi! My name is Antoniel. </h1>
-
-<div>
-  <a href="https://github.com/antdcriativo">
-  <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=antdcriativo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antdcriativo&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
   
-  <h4> Pessoal que veio atrás do Github Stats: a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse tutorial </h4>
+Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
+mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
   
  <br>
 <div  align="center"> 
