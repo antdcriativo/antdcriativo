@@ -7,6 +7,9 @@
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
+  
+  <h4> Pessoal que veio atrás do Github Stats: a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse tutorial </h4>
+  
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -21,7 +24,6 @@
     
 </div>
   
-  <h4> Pessoal que veio atrás do Github Stats: a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse tutorial </h4>
 
 
   <br>
