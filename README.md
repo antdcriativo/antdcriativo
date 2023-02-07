@@ -1,9 +1,8 @@
 <h1>Olá, tudo bom? Então, eu me chamo Antoniel!</h1>
-Estudante e estusiasta de programação frontand e backand. Seja muito bem-vindo ao meu mundo cheinho de sonhos e fantasias que são criados a partir da programação, com boas doses de cafés diários. hahaha ^^
+Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja muito bem-vindo ao meu mundo cheio de projetos e sonhos que são desenvolvidos a partir da programação, com boas doses de cafés diários. hahaha ^^
 <br>
 
 <br>
-<color=#E6E6E6>
 EN
 <br>
 <i>Student and enthusiast of front-and-back-and programming. Welcome to my world full of dreams and fantasies that are created from programming, with good doses of daily coffee. hahaha ^^</i>
