@@ -1,5 +1,5 @@
 <h1>Hi, my name is Antoniel.</h1>
-<h5>Estudante e estusiasta de programação frontand e backand.</h5>
+<h5 color="gray">Estudante e estusiasta de programação frontand e backand.</h5>
 <br>
   
 <div style="display: inline_block"><br>
