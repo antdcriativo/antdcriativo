@@ -8,7 +8,7 @@ Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja m
 🌱 Desenvolvedornato de ideias criativas, de programação clean (e uma ótima experiência na área de design)
 
 <br>
-<br>
+
 **Tecnologias e ferramentas**
 
 <div style="display: inline_block"><br>
@@ -21,8 +21,10 @@ Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja m
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="toni-pic" height="150" style="border-radius:50px;" src="">
 </div>
-  
-  ##
+<br>
+<br>
+
+**Me encontre** 
  
 <div> 
   <a href="https://instagram.com/antonieldcriativo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -30,3 +32,5 @@ Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja m
   <a href="https://www.linkedin.com/in/antoniel-pereira-7a1696111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
