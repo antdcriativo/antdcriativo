@@ -1,11 +1,11 @@
 ## Olá, tudo bom? Então, eu me chamo Antoniel...
 Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja muito bem-vindo ao meu mundo cheio de projetos e sonhos que são desenvolvidos a partir da programação, com boas doses de cafés diários. hahaha 😄
 
-👩🏽‍💻 Desenvolvedor Junior
-🕹️ Gosto MUITO de jogos. Principalmente moba, rpg e co-op.
-🚀 Extrema Facilidade em aprender novas tecnologias.
-📬 Para entrar em contato comigo, por favor, envie um email para [antonielcz@gmail.com](mailto:antonielcz@gmail.com)
-🌱 Desenvolvedornato de ideias criativas, autênticas e com boas programação clean (também arrisco dizer que tenho uma boa experiência na área de design)
+👩🏽‍💻 Desenvolvedor Junior <br>
+🕹️ Gosto MUITO de jogos. Principalmente moba, rpg e co-op. <br>
+🚀 Extrema Facilidade em aprender novas tecnologias. <br>
+📬 Para entrar em contato comigo, por favor, envie um email para [antonielcz@gmail.com](mailto:antonielcz@gmail.com) <br>
+🌱 Desenvolvedornato de ideias criativas, de programação clean (e uma ótima experiência na área de design)
 <br>
 
 <div style="display: inline_block"><br>
