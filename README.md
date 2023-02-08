@@ -2,14 +2,14 @@
 Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja muito bem-vindo ao meu mundo cheio de projetos e sonhos que são desenvolvidos a partir da programação, com boas doses de cafés diários. hahaha 😄
 
 👩🏽‍💻 Desenvolvedor Junior <br>
-🕹️ Gosto MUITO de jogos. Principalmente moba, rpg e co-op. <br>
-🚀 Extrema Facilidade em aprender novas tecnologias. <br>
-📬 Para entrar em contato comigo, por favor, envie um email para [antonielcz@gmail.com](mailto:antonielcz@gmail.com) <br>
-🌱 Desenvolvedornato de ideias criativas, de programação clean (e uma ótima experiência na área de design)
+🕹️ Gosto MUITO de jogos. Principalmente <b>MOBA</b>, <b>rpg</b> e <b>co-op</b>. <br>
+🚀 Extrema facilidade em aprender <b>novas tecnologias</b>. <br>
+📬 Para entrar em contato comigo, por favor, envie um <b>e-mail</b> para [antonielcz@gmail.com](mailto:antonielcz@gmail.com) <br>
+🌱 Desenvolvedornato de ideias <b>criativas</b>, de programação clean (e uma ótima experiência na área de design)
 
 <br>
 
-**Tecnologias e ferramentas**
+**Tecnologias e ferramentas:**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +24,7 @@ Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja m
 <br>
 <br>
 
-**Me encontre** 
+**Me encontre:** 
  
 <div> 
   <a href="https://instagram.com/antonieldcriativo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
