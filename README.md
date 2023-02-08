@@ -6,9 +6,9 @@ Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja m
 🚀 Extrema Facilidade em aprender novas tecnologias. <br>
 📬 Para entrar em contato comigo, por favor, envie um email para [antonielcz@gmail.com](mailto:antonielcz@gmail.com) <br>
 🌱 Desenvolvedornato de ideias criativas, de programação clean (e uma ótima experiência na área de design)
-<br>
 
 **Tecnologias e ferramentas**
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
