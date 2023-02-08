@@ -7,6 +7,8 @@ Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja m
 📬 Para entrar em contato comigo, por favor, envie um email para [antonielcz@gmail.com](mailto:antonielcz@gmail.com) <br>
 🌱 Desenvolvedornato de ideias criativas, de programação clean (e uma ótima experiência na área de design)
 
+<br>
+<br>
 **Tecnologias e ferramentas**
 
 <div style="display: inline_block"><br>
