@@ -5,7 +5,7 @@ Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja m
 🕹️ Gosto MUITO de jogos. Principalmente <b>MOBA</b>, <b>rpg</b> e <b>co-op</b>. <br>
 🚀 Extrema facilidade em aprender <b>novas tecnologias</b>. <br>
 📬 Para entrar em contato comigo, por favor, envie um <b>e-mail</b> para [antonielcz@gmail.com](mailto:antonielcz@gmail.com) <br>
-🌱 Desenvolvedornato de ideias <b>criativas</b>, de programação clean (e uma ótima experiência na área de design)
+🌱 Desenvolvedornato de ideias <b>criativas</b>, de programação clean e com uma ótima experiência na área de design.
 
 <br>
 
