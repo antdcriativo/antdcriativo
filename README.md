@@ -1,5 +1,5 @@
 ## Olá, tudo bom? Então, eu me chamo Antoniel...
-Estudante e estusiasta de programação <b>frontend</b> e <b>backend</b>. Seja muito bem-vindo ao meu mundo cheio de projetos e sonhos que são desenvolvidos a partir da programação, com boas doses de cafés diários. hahaha 😄
+Estudante e entusiasta de programação <b>frontend</b> e <b>backend</b>. Seja muito bem-vindo ao meu mundo cheio de projetos e sonhos que são desenvolvidos a partir da programação, com boas doses de cafés diários. hahaha 😄
 
 👩🏽‍💻 Desenvolvedor Junior <br>
 🕹️ Gosto MUITO de jogos. Principalmente <b>MOBA</b>, <b>rpg</b> e <b>co-op</b>. <br>
